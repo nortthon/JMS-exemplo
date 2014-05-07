@@ -8,7 +8,7 @@
   	<servlet-name>ClientServletJMS</servlet-name>
   	<display-name>ClientServletJMS</display-name>
   	<description></description>
-  	<servlet-class>br.com.itau.internet.ClientServletJMS</servlet-class>
+  	<servlet-class>com.nortthon.ClientServletJMS</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>ClientServletJMS</servlet-name>
